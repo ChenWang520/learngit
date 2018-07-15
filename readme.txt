@@ -5,5 +5,6 @@ Git tracks changes of files.
 fuck your dd
 creating a new branch is quick
 creating a new branch is quick AND simple.
-gebing
+bug is ok
+
 
